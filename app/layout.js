@@ -66,7 +66,7 @@ export default function RootLayout({ children }) {
               </div>
 
               <div className="socials">
-                <p>© <a href="https://https://brandonpack.netlify.app" target="_blank">Brandon Pack</a> 2025<br />Built with NextJS & <a target="_blank" href="https://www.fantacss.smoljames.com">FantaCSS</a> 🔥</p>
+                <p>© <a href="https://brandonpack.netlify.app" target="_blank">Brandon Pack</a> 2025<br />Built with NextJS & <a target="_blank" href="https://www.fantacss.smoljames.com">FantaCSS</a> 🔥</p>
                 <div className="social-links">
                   <Link href={"https://github.com/brandonpack03"} target="_blank"><i className="fa-brands fa-github"></i></Link>
                   <Link href={"https://www.linkedin.com/in/brandon-pack-b6529a1b4/"} target="_blank"><i className="fa-brands fa-linkedin"></i></Link>
