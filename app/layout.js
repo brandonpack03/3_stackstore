@@ -50,8 +50,8 @@ export default function RootLayout({ children }) {
               <div className="links-container">
                 <div>
                   <h3>Brandon Pack</h3>
-                  <Link href={'/'}>Web Portfolio</Link>
-                  <Link href={'/'}>Next Project</Link>
+                  <Link href={'https://brandonpack.netlify.app/'}>Web Portfolio</Link>
+                  {/* <Link href={'/'}>Next Project</Link> */}
                 </div>
                 <div>
                   <h3>Store</h3>
